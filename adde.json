@@ -1,0 +1,8 @@
+{
+      "Servers": [
+        {
+          "Version": "mdm-adde",
+          "BaseURL": "https://chrisjamfpro.jamfcloud.com/servicediscoveryenrollment/v1/userenroll"
+        }
+      ]
+    }
