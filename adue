@@ -1,8 +1,0 @@
-{
-      "Servers": [
-        {
-          "Version": "mdm-byod",
-          "BaseURL": "https://chrisjamfpro.jamfcloud.com/servicediscoveryenrollment/v1/userenroll"
-        }
-      ]
-    }
